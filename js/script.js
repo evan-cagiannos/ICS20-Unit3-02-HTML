@@ -3,9 +3,10 @@
 // Created on: 2022-March-10 
 //This file contains the JS functions for index.html
 
+'use strict' 
 /**
-* Does basic math
-*/
+ * This function calculates volume of pyramid.
+ */
 function doMathClicked() {
   // this function does basic math
   // input
